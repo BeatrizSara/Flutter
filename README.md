@@ -1,4 +1,4 @@
 # 📱 Projeto Flutter de Prática
 
 Aplicativo desenvolvido com **Flutter** para fins de estudo e prática.  
-O objetivo é aplicar conceitos básicos do framework, como estrutura de pastas, criação de widgets, navegação entre telas e integração com recursos nativos.
+O objetivo é aplicar conceitos básicos do framework.
